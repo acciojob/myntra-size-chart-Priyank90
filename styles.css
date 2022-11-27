@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+    .tble{
+    color:#10173A;
+    font-weight:700;
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+.tbl{
+    background-color: indianred;
+    text-align: left;
+    color: white;
+}
