@@ -1,23 +1,20 @@
-
-/* Your CSS Code here. */
-    .tble{
-       
-            color: #10173A;
-            font-weight: 700;
-            border-collapse: collapse;
-            border: 2px solid black;
-          }
-          
-          tr:nth-child(even) 
-          {
-            background-color:lightpink;
-          }
-           tbody tr:nth-child(odd)
-          {
-            background-color: lightcoral;
-          }
-          .sizeChart thead{
-            background-color: indianred;
-            color: white;
-            text-align: left;
-          }
+.sizeChart{
+    color: #10173A;
+    font-weight: 700;
+    border-collapse: collapse;
+    border: 2px solid black;
+  }
+  
+  tr:nth-child(even) 
+  {
+    background-color:lightpink;
+  }
+   tbody tr:nth-child(odd)
+  {
+    background-color: lightcoral;
+  }
+  .sizeChart thead{
+    background-color: indianred;
+    color: white;
+    text-align: left;
+  }
